@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "stackoverflow",
+  "assertionSchema": "stackoverflow_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "dataform-370820",
+  "defaultLocation": "US"
+}
+    
